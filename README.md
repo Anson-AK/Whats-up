@@ -1,2 +1,2 @@
 # Whats-up
-whats up specifications
+whats up specifications.
