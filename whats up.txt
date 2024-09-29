@@ -3,5 +3,6 @@ WHATS APP
 1.CHAT
   1.1 text 
   1.2 voice
+  1.3 video
 2.STATUS
 3.GROUP
